@@ -2,8 +2,6 @@
 
 This project presents a detailed analysis of customer churn in the telecom industry using Power BI. The interactive dashboard provides insights into which customer segments are more likely to leave and what factors influence churn, enabling businesses to take proactive measures.
 
----
-
 ## Dataset Overview
 
 - **Source**: [Telco Customer Churn – Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
