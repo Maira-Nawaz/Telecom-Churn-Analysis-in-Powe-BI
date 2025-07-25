@@ -4,20 +4,23 @@ This project presents a detailed analysis of customer churn in the telecom indus
 
 ---
 
-## 🗂️ Dataset Overview
+## Dataset Overview
 
 - **Source**: [Telco Customer Churn – Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 The data set includes information about:
 
 Customers who left within the last month – the column is called Churn
+
 Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
+
 Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
+
 Demographic info about customers – gender, age range, and if they have partners and dependents
 
-## 📌 Dashboard Features
+## Dashboard Features
 
-![Dashboard Preview](https://github.com/Maira-Nawaz/Telecom-Churn-Analysis-in-Powe-BI/blob/main/Telecom%20Churn%20Analysis.)
+![Dashboard Preview](https://github.com/Maira-Nawaz/Telecom-Churn-Analysis-in-Powe-BI/blob/main/Telecom%20Churn%20Analysis.png)
 
 The dashboard provides:
 
